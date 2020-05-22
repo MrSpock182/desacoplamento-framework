@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 public class ClientServiceSpringConfiguration {
 
     @Bean
-    public ClientService cleanService(ClientRepository repository) {
+    public ClientService clientService(ClientRepository repository) {
         return new ClientServiceImpl(repository);
     }
 

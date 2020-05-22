@@ -9,7 +9,7 @@
 //import javax.inject.Inject;
 //
 //@Controller
-//public class ClientMicronoutApi implements ClientIO {
+//public class RestApiClientWithMicronout implements ClientIO {
 //
 //    @Inject
 //    private ClientService service;

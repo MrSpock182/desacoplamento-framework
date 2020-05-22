@@ -12,7 +12,7 @@ import java.util.UUID;
 public class ClientRepositorySpringData implements ClientRepository {
 
     @Autowired
-    private ClientRepositoryWithSpringData repository;
+    private ClientSpringDataInterface repository;
 
     @Override
     public void save(Client client) {

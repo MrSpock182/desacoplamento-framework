@@ -8,11 +8,11 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class ClientSpringApi implements ClientIO {
+public class RestApiClientWithSpring implements ClientIO {
 
     private final ClientService service;
 
-    public ClientSpringApi(ClientService service) {
+    public RestApiClientWithSpring(ClientService service) {
         this.service = service;
     }
 
