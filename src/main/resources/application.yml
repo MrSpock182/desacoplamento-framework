@@ -1,7 +1,12 @@
 spring:
+  main:
+    allow-bean-definition-overriding: true
   data:
     mongodb:
       uri: mongodb://localhost:27017/clean-code?retryWrites=false
+
+crypto:
+  password: estechw@34d134qs
 
 #mongodb:
 #  uri: mongodb://localhost:27017/clean-code?retryWrites=false
