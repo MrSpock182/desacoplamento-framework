@@ -4,7 +4,7 @@ import io.github.mrspock182.Encryption;
 import io.github.mrspock182.desacoplamento.framework.core.domian.Client;
 import io.github.mrspock182.desacoplamento.framework.core.service.ClientEncryptionService;
 import io.github.mrspock182.desacoplamento.framework.core.service.ClientService;
-import io.github.mrspock182.desacoplamento.framework.core.service.implementation.bilder.ClientEncryptionWithCrypto4JServiceImplBuilder;
+import io.github.mrspock182.desacoplamento.framework.core.service.implementation.builder.ClientEncryptionWithCrypto4JServiceImplBuilder;
 import io.github.mrspock182.desacoplamento.framework.repository.ClientRepository;
 
 public class ClientServiceImpl implements ClientService {

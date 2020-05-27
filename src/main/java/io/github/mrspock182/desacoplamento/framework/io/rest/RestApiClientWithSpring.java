@@ -1,7 +1,7 @@
-package io.github.mrspock182.desacoplamento.framework.framework.api;
+package io.github.mrspock182.desacoplamento.framework.io.rest;
 
 import io.github.mrspock182.desacoplamento.framework.core.domian.Client;
-import io.github.mrspock182.desacoplamento.framework.core.io.ClientIO;
+import io.github.mrspock182.desacoplamento.framework.io.ClientIO;
 import io.github.mrspock182.desacoplamento.framework.core.service.ClientService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

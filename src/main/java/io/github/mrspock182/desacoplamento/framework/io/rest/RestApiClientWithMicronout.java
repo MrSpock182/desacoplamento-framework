@@ -1,7 +1,7 @@
 //package io.github.mrspock182.desacoplamento.framework.framework.api;
 //
 //import io.github.mrspock182.desacoplamento.framework.core.domian.Client;
-//import io.github.mrspock182.desacoplamento.framework.core.io.ClientIO;
+//import io.github.mrspock182.desacoplamento.framework.io.ClientIO;
 //import io.github.mrspock182.desacoplamento.framework.core.service.ClientService;
 //import io.micronaut.http.annotation.Controller;
 //import io.micronaut.http.annotation.Post;

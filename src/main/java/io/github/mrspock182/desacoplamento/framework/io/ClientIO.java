@@ -1,4 +1,4 @@
-package io.github.mrspock182.desacoplamento.framework.core.io;
+package io.github.mrspock182.desacoplamento.framework.io;
 
 import io.github.mrspock182.desacoplamento.framework.core.domian.Client;
 

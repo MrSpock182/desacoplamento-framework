@@ -1,4 +1,4 @@
-package io.github.mrspock182.desacoplamento.framework.core.service.implementation.bilder;
+package io.github.mrspock182.desacoplamento.framework.core.service.implementation.builder;
 
 import io.github.mrspock182.Encryption;
 import io.github.mrspock182.desacoplamento.framework.core.service.implementation.ClientEncryptionWithCrypto4JServiceImpl;

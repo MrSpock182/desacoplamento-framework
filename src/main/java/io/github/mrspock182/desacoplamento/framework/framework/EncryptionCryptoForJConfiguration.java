@@ -1,4 +1,4 @@
-package io.github.mrspock182.desacoplamento.framework.framework.configuration;
+package io.github.mrspock182.desacoplamento.framework.framework;
 
 import io.github.mrspock182.Encryption;
 import io.github.mrspock182.constant.Cipher;
